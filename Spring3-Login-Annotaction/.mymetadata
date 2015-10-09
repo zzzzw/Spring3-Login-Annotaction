@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Spring3-Login-Annotaction"
+  id="myeclipse.1296003703156"
+  context-root="/Spring3-Login-Annotaction"
+  j2ee-spec="5.0"
+  archive="Spring3-Login-Annotaction.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
